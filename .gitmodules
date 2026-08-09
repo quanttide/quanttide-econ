@@ -20,3 +20,6 @@
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-economic-modeling.git
 	branch = main
+[submodule "apps/qtcloud-econ"]
+	path = apps/qtcloud-econ
+	url = https://github.com/quanttide/qtcloud-econ.git
