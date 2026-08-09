@@ -16,3 +16,7 @@
 	path = data/brochure
 	url = https://github.com/quanttide/quanttide-brochure-of-economic-modeling.git
 	branch = main
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-economic-modeling.git
+	branch = main
